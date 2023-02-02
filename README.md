@@ -7,3 +7,6 @@ Template is training on HTML and CSS
 - Slider Of Bootstrap
 - I Used Some Codes Of JavaScript For do A Nan In Phone
 - I Didn't Learn JS
+- [Live Reviwe](https://raw.githack.com/sonsalem/Template-2-Elzero/master/index-template-tow.html)
+
+**Have fun building! 🚀
