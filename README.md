@@ -9,4 +9,4 @@ Template is training on HTML and CSS
 - I Didn't Learn JS
 - [Live Reviwe](https://raw.githack.com/sonsalem/Template-2-Elzero/master/index-template-tow.html)
 
-**Have fun building! 🚀
+**Have fun building!** 🚀
